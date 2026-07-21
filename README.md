@@ -1,6 +1,5 @@
 # 💫 About Me:
 I'm currently learning programming with new languages. 🧠 
-* 🧰  I'm currently learning Low-level & Systems Languages  🛠️
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nicedayx&label=Profile%20Views&color=321CBA&label_color=1F2328&style=for-the-badge" alt="Profile views" />
