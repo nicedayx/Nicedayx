@@ -1,5 +1,8 @@
-# 💫 About Me:
-- I'm currently learning programming with new languages. 🧠 
+<h1 align="center">Hey there 👋</h1>
+
+<p align="center">
+  I'm currently learning programming with new languages. 🧠
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nicedayx&label=Profile%20Views&color=321CBA&label_color=1F2328&style=for-the-badge" alt="Profile views" />
