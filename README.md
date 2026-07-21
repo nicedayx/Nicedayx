@@ -62,4 +62,14 @@
     <img src="https://img.shields.io/github/stars/nicedayx?style=for-the-badge&logo=github&color=321CBA&labelColor=1F2328" alt="Stars" />
   </a>
 
+---
+
+<p align="center">
+  <picture data-importer="pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/breakout-contribution-graph.svg?game=breakout">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  </picture>
+</p>
+
 <!-- xxxxxxxxxx nicedayx -->
