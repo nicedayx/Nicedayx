@@ -1,11 +1,11 @@
 # 💫 About Me:
-I'm currently learning programming with new languages. 🧠 
+- I'm currently learning programming with new languages. 🧠 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nicedayx&label=Profile%20Views&color=321CBA&label_color=1F2328&style=for-the-badge" alt="Profile views" />
 </p>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <h3 align="center">📝 Languages</h3>
 <p align="center">
@@ -43,7 +43,7 @@ I'm currently learning programming with new languages. 🧠
 </p>
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=nicedayx&theme=nord&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=nicedayx&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nicedayx&theme=nord&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
