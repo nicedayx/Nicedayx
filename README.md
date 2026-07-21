@@ -1,16 +1,63 @@
-## Hi there 👋
+# 💫 About Me:
+I'm currently learning programming with new languages. 🧠 
+* 🧰  I'm currently learning Low-level & Systems Languages  🛠️
 
-<!--
-**nicedayx/Nicedayx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nicedayx&label=Profile%20Views&color=321CBA&label_color=1F2328&style=for-the-badge" alt="Profile views" />
+</p>
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">📝 Languages</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,go,rust,php,ruby" />
+  </a>
+</p>
+
+<h3 align="center">🎨 Frontend & UI</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwind,bootstrap,vite,figma" />
+  </a>
+</p>
+
+<h3 align="center">⚙️ Backend & Database</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,bun,flask,discordjs,postgres,mysql,supabase,wordpress,prisma" />
+  </a>
+</p>
+
+<h3 align="center">☁️ DevOps & Cloud</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,aws,vercel,heroku" />
+  </a>
+</p>
+
+<h3 align="center">🛠️ Tools & Editors</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,npm,yarn,postman,selenium,neovim,md" />
+  </a>
+</p>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=nicedayx&theme=nord&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=nicedayx&theme=nord&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nicedayx&theme=nord&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+<br>
+  <a href="https://github.com/nicedayx?tab=followers">
+    <img src="https://img.shields.io/github/followers/nicedayx?style=for-the-badge&logo=github&color=321CBA&labelColor=1F2328" alt="Followers" />
+  </a>
+  <br>
+  <a href="https://github.com/nicedayx">
+    <img src="https://img.shields.io/github/stars/nicedayx?style=for-the-badge&logo=github&color=321CBA&labelColor=1F2328" alt="Stars" />
+  </a>
+
+<!-- xxxxxxxxxx nicedayx -->
