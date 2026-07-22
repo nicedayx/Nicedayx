@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋</h1>
 
 <p align="center">
-  I'm currently learning programming with new languages. 🧠
+  🧠
 </p>
 
 <p align="center">
